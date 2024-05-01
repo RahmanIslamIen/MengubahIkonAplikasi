@@ -1,4 +1,5 @@
-# latihan ke 6
+# Mengubah Ikon Aplikasi
+## RAHMAN ISLAM 411211069 - TEHNIK INFORMATIKA - TANJUNG DUREN - UNIVERSITAS DIAN NUSANTARA
 hasil jadi akhir nya
 <table>
   <tr>
